@@ -16,3 +16,5 @@ The Brooklyn Botanic Garden maintains a [nice supply list](http://www.bbg.org/ga
 ## Review
 
 I like the Lifetime Tumblers because they're big, sturdy, they sit up off the ground (away from the rats ... it is New York City). Two complaints: there's no brakes on the lid, so unless it is up against a tree or wall, the lid falls all the way open which turns out to be pretty unmanageable. Second, there's no handle on the lid. Minor annoyances, but annoying nonetheless. 
+
+Note: if you compost in your apartment building, I'd love to know what kind of bin you use. [Submit an issue](https://github.com/amandabee/compost-clarkson/issues) to tell me about your bin.
