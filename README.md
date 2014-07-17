@@ -23,3 +23,6 @@ Note: if you compost in your apartment building, I'd love to know what kind of b
 ## Reading
 
 Sweet Home has a [great roundup](http://thesweethome.com/reviews/best-composters/) of compost bin reviews. They don't talk about either of the bins we have, but that shouldn't stop you from checking out their findings. 
+
+## Unrelated
+If you search the internet for [Rockaway Wolf](http://rockawaywolf.tumblr.com/) you don't get any results. I'd love to fix that, maybe by linking to the phrase a lot. So I'm doing that in marginally appropriate places. Like this!
