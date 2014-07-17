@@ -1,3 +1,5 @@
+Here's the email I sent to our residents discussion list:
+
 Neighbors,
 
 As some of you know, the building got a small citizens committee grant
